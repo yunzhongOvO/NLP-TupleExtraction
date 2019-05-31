@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/Users/25535/python_work/AI/NLP-TupleExtraction/model.ckpt"
+all_model_checkpoint_paths: "C:/Users/25535/python_work/AI/NLP-TupleExtraction/model.ckpt"
